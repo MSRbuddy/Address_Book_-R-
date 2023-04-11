@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\bin\Debug\net6.0\ADBook-UC3.exe
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\bin\Debug\net6.0\ADBook-UC3.deps.json
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\bin\Debug\net6.0\ADBook-UC3.runtimeconfig.json
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\bin\Debug\net6.0\ADBook-UC3.dll
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\bin\Debug\net6.0\ADBook-UC3.pdb
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\obj\Debug\net6.0\ADBook-UC3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\obj\Debug\net6.0\ADBook-UC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\obj\Debug\net6.0\ADBook-UC3.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\obj\Debug\net6.0\ADBook-UC3.AssemblyInfo.cs
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\obj\Debug\net6.0\ADBook-UC3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\obj\Debug\net6.0\ADBook-UC3.dll
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\obj\Debug\net6.0\refint\ADBook-UC3.dll
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\obj\Debug\net6.0\ADBook-UC3.pdb
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\obj\Debug\net6.0\ADBook-UC3.genruntimeconfig.cache
+C:\Users\USER\source\repos\AddressBook\AddressBook\ADBook-UC3\ADBook-UC3\obj\Debug\net6.0\ref\ADBook-UC3.dll
